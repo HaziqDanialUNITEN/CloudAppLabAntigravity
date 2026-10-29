@@ -1,0 +1,43 @@
+VORTEX ENGINE // DESKTOP NEURAL ACCELERATOR
+A dedicated, local AI hardware station engineered for privacy-first developers, researchers, and creators.
+
+WHO THIS IS FOR
+Engineers, hackers, and creators running high-parameter local models who require instant responsiveness, zero latency, and absolute data sovereignty without monthly cloud subscriptions.
+
+THE IDEA IN ONE LINE
+Silicon-level sovereign intelligence right on your desk. No cloud tether, zero telemetry.
+
+HARDWARE ARCHITECTURE & FOUNDATION
+1. Unibody CNC Aluminum chassis. Precision-milled thermal casing with dual vapor chamber passive cooling.
+2. Dual high-speed expansion bus. PCIe 5.0 coprocessor connectors allow hot-swapping accelerator blocks.
+3. OLED live telemetry strip. Displays real-time token throughput, memory saturation, and core thermal metrics.
+4. Ultra-fast internal storage. Direct-attached NVMe storage supporting sustained 7,200 MB/s sequential read rates.
+
+COMPUTE & REAL-TIME RUNTIME
+5. Instant bare-metal boot. Custom lightweight runtime initializes ready-to-infer in under two seconds.
+6. Unified high-bandwidth memory. Delivers 800 GB/s continuous unified memory bus directly to tensor cores.
+7. Dynamic quantization engine. Real-time switching between 4-bit, 8-bit, and 16-bit floating point precision.
+
+WORKFLOW & SYSTEM INTEGRATION
+8. Local-first REST and WebSocket server. Zero-configuration API server listening on localhost port 8080.
+9. Open format compliance. Native support for standard open-weight model checkpoints, pipelines, and scripts.
+10. Hardware snapshot cache. Freezes active memory contexts to non-volatile flash for zero-wait resumption.
+
+SECURITY, SOVEREIGNTY & AUDIT
+11. Physical network kill switches. Instant mechanical cutoffs for Ethernet, Wi-Fi 7, and Bluetooth radios.
+12. Secure hardware enclave. Isolated cryptographic chip stores private keys and encrypts offline weights.
+13. Fully open hardware schematics. Open-source device drivers and board layout files published under permissive licenses.
+14. Whisper-quiet acoustic signature. Operates below 18 decibels even under sustained 90-watt computational loads.
+15. Integrated hardware terminal. Front-panel high-speed serial USB-C debugging port for raw kernel interaction.
+
+KEY NUMBERS FOR THE PAGE
+128 GB unified memory bandwidth on your physical desk.
+180 TFLOPs of local FP16 neural tensor compute.
+0 bytes of external data transmission or cloud telemetry.
+
+CALL TO ACTION
+Reserve your Founder Edition unit today with prioritized delivery.
+Inspect the open schematics and developer SDK documentation on GitHub.
+
+FOOTER NOTE
+Vortex Engine is an independent hardware project. Specifications and component layouts are subject to continuous refinement before commercial manufacturing.
